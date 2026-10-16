@@ -1,4 +1,4 @@
-![Frame Studio — Um vídeo. Novas possibilidades.](docs/readme-banner.png)
+(/readme-banner.png)
 
 # Frame Studio
 
