@@ -1,5 +1,4 @@
-(/readme-banner.png)
-
+![Frame Studio](readme-banner.png)
 # Frame Studio
 
 Transforme um vídeo em várias versões com textos, cores, templates e seu @ do Instagram. O processamento acontece no seu computador, sem conta, API de IA ou consumo de tokens.
