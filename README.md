@@ -43,10 +43,10 @@ O FFmpeg precisa incluir `libx264` e o filtro `drawtext`. O projeto usa uma font
 
 No GitHub, clique em **Code → Download ZIP**, extraia o arquivo e abra um terminal dentro da pasta que contém `package.json`.
 
-Se preferir Git, substitua a URL abaixo pela URL real do repositório publicado:
+Se preferir Git, clone o repositório:
 
 ```sh
-git clone https://github.com/SEU-USUARIO/frame-studio.git
+git clone https://github.com/IanAkiles/frame-studio.git
 cd frame-studio
 ```
 
@@ -132,7 +132,7 @@ O primeiro comando testa as composições e quebras de texto. O segundo usa FFmp
 ```text
 frame-studio/
 ├── public/                 # Interface e regras de layout compartilhadas
-├── docs/readme-banner.png  # Capa do README
+├── readme-banner.png       # Capa do README
 ├── test/                   # Testes de composição e renderização
 ├── config.cjs              # Configuração e detecção de fontes
 ├── config.example.json     # Modelo de configuração local
